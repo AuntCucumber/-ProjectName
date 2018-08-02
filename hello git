@@ -1,4 +1,5 @@
 object hellogit{
 def main(args: Array[String]): Unit ={
 print("魏燕子傻逼,狗!!!!!!狗!!!!!!")
+print("15616186161646+4164169")
 }
